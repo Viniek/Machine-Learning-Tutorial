@@ -48,4 +48,4 @@ bash
 <pre>
 jupyter notebook</pre>
 5.Open a notebook: In the Jupyter interface, open the notebook you want to start with and follow the instructions provided in the notebook.  
-***Happy Learning***
+***Happy Learning***"# Machine-Learning-Tutorial" 
