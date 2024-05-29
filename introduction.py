@@ -12,5 +12,6 @@ in machine learning. The performance will rise in proportion to the quantity of 
 1.Machine learning uses data to detect various patterns in a given dataset.
 2.It can learn from past data and improve automatically.
 3.It is a data-driven technology.
+4.Machine learning is much similar to data mining as it also deals with the huge amount of the data.'''
 
 
