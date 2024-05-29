@@ -23,3 +23,4 @@ data integration, and more.
  changes exponentially.
  -Normalizing and scaling help to modify data in a way that allows computers to extract a meaningful 
  link between these variables.
+ -Salary, for example, might be a multiple-figure digit, whereas age is expressed in double digits. 
