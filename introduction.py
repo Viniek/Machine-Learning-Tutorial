@@ -17,5 +17,5 @@ in machine learning. The performance will rise in proportion to the quantity of 
 '''How Machine Learning works
 input past data =>machine learning algorithm =>Building Logical Models=>output
 
-
+Importance of Machine Learning:
 
