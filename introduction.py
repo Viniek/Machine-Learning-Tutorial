@@ -3,4 +3,6 @@ that works on algorithm developments and statistical models that allow computers
 data and make predictions or decisions without being explicitly programmed.
 -Machine learning focuses primarily on the creation of algorithms that enable a computer to 
 independently learn from data and previous experiences.
+-For the purpose of developing predictive models, machine learning brings 
+together statistics and computer science. 
 """
