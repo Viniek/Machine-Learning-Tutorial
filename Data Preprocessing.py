@@ -19,4 +19,5 @@ data integration, and more.
 -Data practitioners must determine if it’s best to reject records with missing values, ignore them,
  or fill them in with an estimated value.
   3.It Normalizes and Scales Data
--
+-Dependent and independent variables change on separate scales, or one changes linearly while another
+ changes exponentially.
