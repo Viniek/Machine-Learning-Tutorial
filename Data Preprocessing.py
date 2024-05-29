@@ -14,3 +14,9 @@ and encoding data so that a machine learning algorithm can understand it and use
 Data preprocessing is the fast track to improving data quality since many of its steps mirror activities
  you’ll find in any data quality management process, such as data cleansing, data profiling,
 data integration, and more.
+  2.It Handles Missing Data
+-There are several reasons why a data collection may be missing values (particular fields of data). 
+-Data practitioners must determine if it’s best to reject records with missing values, ignore them,
+ or fill them in with an estimated value.
+  3.It Normalizes and Scales Data
+-
