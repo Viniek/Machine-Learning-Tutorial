@@ -21,3 +21,4 @@ Importance of Machine Learning:
 
 1.Rapid increment in the production of data
 2.Solving complex problems, which are difficult for a human
+3.Decision making in various sector including finance
