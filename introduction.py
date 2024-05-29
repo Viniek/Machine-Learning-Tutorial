@@ -19,3 +19,4 @@ input past data =>machine learning algorithm =>Building Logical Models=>output
 
 Importance of Machine Learning:
 
+1.Rapid increment in the production of data
