@@ -34,3 +34,5 @@ data integration, and more.
    -Techniques for finding, deleting, or connecting duplicates help to address such data quality issues
     automatically.
   5.It Handles Outliers
+  -Data practitioners sometimes need to merge many data sources to construct a new machine learning model. 
+  
