@@ -33,3 +33,4 @@ data integration, and more.
    twice or whether the data reflects separate occurrences.
    -Techniques for finding, deleting, or connecting duplicates help to address such data quality issues
     automatically.
+  5.It Handles Outliers
