@@ -5,4 +5,5 @@ data and make predictions or decisions without being explicitly programmed.
 independently learn from data and previous experiences.
 -For the purpose of developing predictive models, machine learning brings 
 together statistics and computer science. 
-"""
+-Algorithms that learn from historical data are either constructed or utilized 
+in machine learning. The performance will rise in proportion to the quantity of information we provide."""
