@@ -15,11 +15,11 @@ in machine learning. The performance will rise in proportion to the quantity of 
 4.Machine learning is much similar to data mining as it also deals with the huge amount of the data.'''
 
 '''How Machine Learning works
-input past data =>machine learning algorithm =>Building Logical Models=>output
+input past data =>  machine learning algorithm =>  Building Logical Models=> output
 
 Importance of Machine Learning:
 
 1.Rapid increment in the production of data
 2.Solving complex problems, which are difficult for a human
 3.Decision making in various sector including finance
-4.Finding hidden patterns and extracting useful information from data.
+4.Finding hidden patterns and extracting useful information from data.'''
