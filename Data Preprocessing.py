@@ -28,3 +28,4 @@ data integration, and more.
  link between these variables.
  -Salary, for example, might be a multiple-figure digit, whereas age is expressed in double digits. 
  
+  4.It Eliminates Duplicate Records
