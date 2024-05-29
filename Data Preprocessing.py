@@ -31,3 +31,5 @@ data integration, and more.
   4.It Eliminates Duplicate Records
   -When two records appear to repeat, an algorithm must identify whether the same metric was captured
    twice or whether the data reflects separate occurrences.
+   -Techniques for finding, deleting, or connecting duplicates help to address such data quality issues
+    automatically.
