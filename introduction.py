@@ -10,5 +10,6 @@ in machine learning. The performance will rise in proportion to the quantity of 
 
 '''Features of Machine Learning:
 1.Machine learning uses data to detect various patterns in a given dataset.
+2.It can learn from past data and improve automatically.
 
 
