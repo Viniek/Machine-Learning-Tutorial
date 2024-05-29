@@ -7,3 +7,8 @@ independently learn from data and previous experiences.
 together statistics and computer science. 
 -Algorithms that learn from historical data are either constructed or utilized 
 in machine learning. The performance will rise in proportion to the quantity of information we provide."""
+
+'''Features of Machine Learning:
+1.Machine learning uses data to detect various patterns in a given dataset.
+
+
