@@ -65,5 +65,6 @@ data integration, and more.
   -It involves  loading the data that will be utilized in the machine learning algorithm. 
   -Warehouses are commonly used to access data through business intelligence interfaces in 
   order to observe metrics that we know we need to monitor.   
-  
-  - 4. Check for Missing Values       
+
+   4. Check for Missing Values       
+  -Evaluate the data and look for missing values.
