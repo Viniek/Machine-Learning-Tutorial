@@ -48,7 +48,6 @@ data integration, and more.
  Data Preprocessing Steps in Machine Learning.
 
                 1. Acquire the Dataset
-
  -Naturally, data collection is the first step in any machine learning project and the first among the data
   preprocessing steps. 
   For example, the marketing team might have access to a CRM system, but that system may operate in isolation
@@ -66,7 +65,7 @@ data integration, and more.
   -Warehouses are commonly used to access data through business intelligence interfaces in 
   order to observe metrics that we know we need to monitor.   
 
-   4. Check for Missing Values       
+               4. Check for Missing Values       
   -Evaluate the data and look for missing values.
    Missing values can break actual data trends and potentially result in additional data loss
     when entire rows and columns are deleted due to a few missing cells in the dataset.
