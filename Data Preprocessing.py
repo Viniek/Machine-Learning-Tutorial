@@ -12,6 +12,7 @@ and encoding data so that a machine learning algorithm can understand it and use
   data you feed into your machine learning algorithms.
 
   1.It Improves Data Quality
+  
 Data preprocessing is the fast track to improving data quality since many of its steps mirror activities
  you’ll find in any data quality management process, such as data cleansing, data profiling,
 data integration, and more.
@@ -53,5 +54,5 @@ data integration, and more.
 -A library is a collection of functions that an algorithm can call and utilize.
 -You can streamline data preprocessing procedures using tools and frameworks that make the process easier to
  organize and execute.
- 
+
                3. Import Datasets
