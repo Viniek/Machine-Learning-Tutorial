@@ -43,3 +43,5 @@ data integration, and more.
  1. Acquire the Dataset
  -Naturally, data collection is the first step in any machine learning project and the first among the data
   preprocessing steps. 
+  For example, the marketing team might have access to a CRM system, but that system may operate in isolation
+   from the web analytics solution. Combining all data streams into consolidated storage will be challenging.
