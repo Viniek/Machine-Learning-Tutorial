@@ -64,4 +64,5 @@ data integration, and more.
   -This is the most critical machine learning preprocessing step.
   -It involves  loading the data that will be utilized in the machine learning algorithm. 
   -Warehouses are commonly used to access data through business intelligence interfaces in 
-  order to observe metrics that we know we need to monitor.             
+  order to observe metrics that we know we need to monitor.   
+            
