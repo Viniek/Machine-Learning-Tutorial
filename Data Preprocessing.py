@@ -39,7 +39,7 @@ data integration, and more.
     automatically.
 
         5.It Handles Outliers
-        
+
   -Data practitioners sometimes need to merge many data sources to construct a new machine learning model. 
   example:
    -Principal component analysis is an important technique for lowering the number of dimensions in the 
@@ -61,3 +61,4 @@ data integration, and more.
  organize and execute.
 
                3. Import Datasets
+  -This is the most critical machine learning preprocessing step.             
