@@ -38,3 +38,6 @@ data integration, and more.
   example:
    -Principal component analysis is an important technique for lowering the number of dimensions in the 
    training data set and producing a more efficient representation.
+
+ Data Preprocessing Steps in Machine Learning.
+ 1. Acquire the Dataset
