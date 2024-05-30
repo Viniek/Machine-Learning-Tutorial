@@ -11,8 +11,8 @@ and encoding data so that a machine learning algorithm can understand it and use
   -Your data project will only be as successful as the input 
   data you feed into your machine learning algorithms.
 
-  1.It Improves Data Quality
-  
+         1.It Improves Data Quality
+
 Data preprocessing is the fast track to improving data quality since many of its steps mirror activities
  you’ll find in any data quality management process, such as data cleansing, data profiling,
 data integration, and more.
