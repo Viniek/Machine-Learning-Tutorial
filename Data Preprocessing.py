@@ -45,4 +45,4 @@ data integration, and more.
   preprocessing steps. 
   For example, the marketing team might have access to a CRM system, but that system may operate in isolation
    from the web analytics solution. Combining all data streams into consolidated storage will be challenging.
-   2.2. Import Libraries
+   2. Import Libraries
