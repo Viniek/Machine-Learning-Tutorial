@@ -41,3 +41,5 @@ data integration, and more.
 
  Data Preprocessing Steps in Machine Learning.
  1. Acquire the Dataset
+ -Naturally, data collection is the first step in any machine learning project and the first among the data
+  preprocessing steps. 
