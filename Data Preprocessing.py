@@ -63,4 +63,5 @@ data integration, and more.
                3. Import Datasets
   -This is the most critical machine learning preprocessing step.
   -It involves  loading the data that will be utilized in the machine learning algorithm. 
-  -warehouses are commonly used to access data through business intelligence interfaces in order to observe metrics that we know we need to monitor.             
+  -warehouses are commonly used to access data through business intelligence interfaces in 
+  order to observe metrics that we know we need to monitor.             
