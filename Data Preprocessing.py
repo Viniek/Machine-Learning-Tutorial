@@ -37,8 +37,8 @@ data integration, and more.
    twice or whether the data reflects separate occurrences.
    -Techniques for finding, deleting, or connecting duplicates help to address such data quality issues
     automatically.
-    
-  5.It Handles Outliers
+
+        5.It Handles Outliers
   -Data practitioners sometimes need to merge many data sources to construct a new machine learning model. 
   example:
    -Principal component analysis is an important technique for lowering the number of dimensions in the 
