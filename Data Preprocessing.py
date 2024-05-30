@@ -61,4 +61,6 @@ data integration, and more.
  organize and execute.
 
                3. Import Datasets
-  -This is the most critical machine learning preprocessing step.             
+  -This is the most critical machine learning preprocessing step.
+  -It involves  loading the data that will be utilized in the machine learning algorithm. 
+  -             
