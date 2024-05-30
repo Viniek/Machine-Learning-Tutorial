@@ -24,6 +24,7 @@ data integration, and more.
  or fill them in with an estimated value.
 
         3.It Normalizes and Scales Data
+        
 -Dependent and independent variables change on separate scales, or one changes linearly while another
  changes exponentially.
  -Normalizing and scaling help to modify data in a way that allows computers to extract a meaningful 
