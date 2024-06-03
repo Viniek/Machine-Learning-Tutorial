@@ -83,3 +83,4 @@ data integration, and more.
 determine which neighbors are closest to a particular record.
 
 2.Feature Engineering
+-The feature engineering strategy is used to produce better features for your dataset, which will improve the model’s performance
