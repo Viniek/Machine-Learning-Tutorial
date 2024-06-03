@@ -76,6 +76,6 @@ data integration, and more.
  - The training set is the data you’ll use to train your machine learning model.
   The evaluation set will assess the data and the model, while the validation set will validate it.             
 
-  Data Preprocessing Examples and Techniques
+         Data Preprocessing  Techniques
 1.Data Transformation
 -It changes data from one format to another.
