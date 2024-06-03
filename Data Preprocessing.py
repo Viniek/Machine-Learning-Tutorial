@@ -112,4 +112,5 @@ which eliminates observations based on the nearest neighbor, and Edited Nearest 
   1.Data Cleaning
   The goal here is to identify the simplest solution to correct quality concerns, such as removing
    incorrect data, filling in missing data, or ensuring the raw data is appropriate for feature engineering.
-2.
+2. Data Reduction
+Data reduction techniques, such as principal component analysis, are used to convert raw data into a simplified format that is appropriate for certain use cases.
