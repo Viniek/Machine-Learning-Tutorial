@@ -77,5 +77,4 @@ data integration, and more.
   The evaluation set will assess the data and the model, while the validation set will validate it.             
 
   Data Preprocessing Examples and Techniques
-
-  
+1.Data Transformation
