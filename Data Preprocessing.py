@@ -78,3 +78,4 @@ data integration, and more.
 
   Data Preprocessing Examples and Techniques
 1.Data Transformation
+-It changes data from one format to another.
