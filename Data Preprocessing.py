@@ -79,3 +79,4 @@ data integration, and more.
          Data Preprocessing  Techniques
 1.Data Transformation
 -It changes data from one format to another.
+-For example, the KNN model uses distance measurements to determine which neighbors are closest to a particular record.
