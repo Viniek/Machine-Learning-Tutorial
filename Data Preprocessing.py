@@ -94,6 +94,22 @@ determine which neighbors are closest to a particular record.
 
 
 Techniques you can use to solve this problem:
--Oversampling – 
-Oversampling is the technique of augmenting your dataset with generated data from the minority class. The Synthetic Minority Oversampling Technique (SMOTE) is the most commonly used method for doing this; 
+1.Oversampling – 
+Oversampling is the technique of augmenting your dataset with generated data from the minority class. 
+The Synthetic Minority Oversampling Technique (SMOTE) is the most commonly used method for doing this; 
 it selects a random sample from the minority class.
+2.Undersampling – 
+Undersampling is the process of lowering a dataset and eliminating genuine data from 
+the majority class. The two primary algorithms used in this method are TomekLinks, 
+which eliminates observations based on the nearest neighbor, and Edited Nearest Neighbors (ENN).
+3.Hybrid Oversampling –
+ The hybrid strategy incorporates both oversampling and undersampling strategies in your dataset.
+  One of the methods used in this technique is the SMOTEENN, which uses the SMOTE algorithm for 
+  minority oversampling and the ENN algorithm for majority undersampling.
+
+  Data Preprocessing Best Practices
+
+  1.Data Cleaning
+  The goal here is to identify the simplest solution to correct quality concerns, such as removing
+   incorrect data, filling in missing data, or ensuring the raw data is appropriate for feature engineering.
+2.
