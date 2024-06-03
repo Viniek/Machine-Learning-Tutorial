@@ -71,3 +71,4 @@ data integration, and more.
                5.Encode the Data
 -Non-numerical data is incomprehensible to machine learning modules. To avoid issues later on, the data should be arranged numerically. 
                6. Scaling
+               7. Split Dataset Into Training, Evaluation and Validation Sets
