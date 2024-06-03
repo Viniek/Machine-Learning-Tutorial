@@ -87,3 +87,4 @@ determine which neighbors are closest to a particular record.
  for your dataset, which will improve the model’s performance
 
  3.Imbalanced Data
+ -One of the most prevalent issues you may encounter while working with real-world data categorization is that the classes are unbalanced (one contains more samples than the other), resulting in a significant bias for the model.
