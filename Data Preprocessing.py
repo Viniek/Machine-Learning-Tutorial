@@ -87,4 +87,13 @@ determine which neighbors are closest to a particular record.
  for your dataset, which will improve the model’s performance
 
  3.Imbalanced Data
- -One of the most prevalent issues you may encounter while working with real-world data categorization is that the classes are unbalanced (one contains more samples than the other), resulting in a significant bias for the model.
+ -One of the most prevalent issues you may encounter while working with 
+ real-world data categorization is that the classes are unbalanced 
+ (one contains more samples than the other), resulting in a significant
+  bias for the model.
+
+
+Techniques you can use to solve this problem:
+-Oversampling – 
+Oversampling is the technique of augmenting your dataset with generated data from the minority class. The Synthetic Minority Oversampling Technique (SMOTE) is the most commonly used method for doing this; 
+it selects a random sample from the minority class.
