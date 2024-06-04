@@ -14,4 +14,5 @@ well "labelled" training data, and on basis of that data, machines predict the o
  3.Fraud Detection
  4.spam filtering
                  How Supervised Learning Works
- 1.Models are trained using labelled dataset            
+ 1.Models are trained using labelled dataset  
+ 2.          
