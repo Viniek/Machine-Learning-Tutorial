@@ -30,4 +30,6 @@ If the shape of the object is a long curving cylinder having Green-Yellow color,
                  How Supervised Learning Works
  1.Models are trained using labelled dataset  
  2.The model is tested on the basis of test data
- 3.The model then  predicts the output.        
+ 3.The model then  predicts the output.    
+
+                  Types of Supervised Learning    
