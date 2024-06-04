@@ -114,3 +114,6 @@ which eliminates observations based on the nearest neighbor, and Edited Nearest 
    incorrect data, filling in missing data, or ensuring the raw data is appropriate for feature engineering.
 2. Data Reduction
 Data reduction techniques, such as principal component analysis, are used to convert raw data into a simplified format that is appropriate for certain use cases.
+3.Data Transformation
+ This might entail arranging unstructured data, merging salient variables where it makes sense, or
+  determining which ranges to focus on.
