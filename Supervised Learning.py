@@ -9,4 +9,5 @@ well "labelled" training data, and on basis of that data, machines predict the o
 -The labelled data means some input data is already tagged with the correct output.
 
                           Uses
- 1.Risk AssessmentImage classification, Fraud Detection, spam filtering, etc.
+ 1.Risk Assessment
+ 2.Image classification, Fraud Detection, spam filtering, etc.
