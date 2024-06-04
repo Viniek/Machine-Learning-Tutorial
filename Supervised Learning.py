@@ -15,4 +15,4 @@ well "labelled" training data, and on basis of that data, machines predict the o
  4.spam filtering
                  How Supervised Learning Works
  1.Models are trained using labelled dataset  
- 2.          
+ 2.the model is tested on the basis of test data           
