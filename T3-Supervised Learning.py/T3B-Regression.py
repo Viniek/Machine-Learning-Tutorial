@@ -7,4 +7,19 @@ equation to observed data.
  while when there are more than one dependent variables, it is known as Multivariate Regression.
 
            Types of Linear Regression
-  1.         
+  1. Simple Linear Regression 
+      
+  -This is the simplest form of linear regression, and it involves only one independent variable and 
+  one dependent variable. The equation for simple linear regression is:   
+  y=β0 +β1 X
+  where:
+Y is the dependent variable
+X is the independent variable
+β0 is the intercept
+β1 is the slope
+
+​
+ 
+
+​
+ 
