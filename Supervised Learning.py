@@ -10,6 +10,6 @@ well "labelled" training data, and on basis of that data, machines predict the o
 
                           Uses
  1.Risk Assessment
- 2.Image classification, 
- 3.Fraud Detection,
- 4.spam filtering, etc.
+ 2.Image classification
+ 3.Fraud Detection
+ 4.spam filtering
