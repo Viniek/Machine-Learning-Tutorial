@@ -22,7 +22,7 @@ If the shape of the object is rounded and has a depression at the top, is red in
 If the shape of the object is a long curving cylinder having Green-Yellow color, then it will be labeled as –Banana. 
 
 
-                          Uses of s
+                          Uses of supervised learning
  1.Risk Assessment
  2.Image classification
  3.Fraud Detection
