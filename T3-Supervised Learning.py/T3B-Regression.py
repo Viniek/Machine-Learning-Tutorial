@@ -50,4 +50,8 @@
 
 x=data_set.iloc[:,:-1].values
 y=data_set.iloc[:,1]values
+# In the above lines of code, for x variable, we have taken -1 value since we want to
+#  remove the last column from the dataset. For y variable, we have taken 1 value as a parameter,
+#  since we want to extract the second column and indexing starts from the zero.
+
  
