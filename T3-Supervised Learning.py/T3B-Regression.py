@@ -3,6 +3,7 @@ relationship between the dependent variable and one or more independent features
 equation to observed data.
 -When there is only one independent feature, it is known as Simple Linear Regression, and
  when there are more than one feature, it is known as Multiple Linear Regression.
+ -Similarly, when there is only one dependent variable, it is considered Univariate Linear Regression, while when there are more than one dependent variables, it is known as Multivariate Regression.
 
             common regression algorithms include:
   1.Linear Regression      
