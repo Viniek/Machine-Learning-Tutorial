@@ -31,14 +31,23 @@
 # for representing the relationship between these two variables.
 # Step-1: Data Pre-processing
 # ​
-#  First, we will import the three important libraries, which will help us for loading the dataset,
+#  STEP1:We will import the three important libraries, which will help us for loading the dataset,
 #   plotting the graphs, and creating the Simple Linear Regression model.
    import numpy as nm
    import matplotlib.pyplot as matp
    import pandas as pd
 
-#    Next, we will load the dataset into our code:
+#    STEP2: We will load the dataset into our code:
   data_set=pd.read_csv("Salary_Data.csv")
 
-​
+# By executing the above line of code (ctrl+ENTER), we can read the dataset on our Spyder IDE
+#  screen by clicking on the variable explorer option.
+# ​NoteBetter: In Spyder IDE, the folder containing the code file must be saved as a working directory, 
+# and the dataset or csv file should be in the same folder.
+  
+# STEP3:We will extract the dependent and independent variables from the given dataset.
+#  The independent variable is years of experience, and the dependent variable is salary.
+
+x=data_set.iloc[:,:-1].values
+y=data_set.iloc[:,1]values
  
