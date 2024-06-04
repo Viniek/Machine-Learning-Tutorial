@@ -16,4 +16,4 @@ well "labelled" training data, and on basis of that data, machines predict the o
                  How Supervised Learning Works
  1.Models are trained using labelled dataset  
  2.The model is tested on the basis of test data
- 3.           
+ 3.The model then  predicts the output.        
