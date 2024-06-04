@@ -12,4 +12,4 @@ well "labelled" training data, and on basis of that data, machines predict the o
  1.Risk Assessment
  2.Image classification, 
  3.Fraud Detection,
-  spam filtering, etc.
+  4.spam filtering, etc.
