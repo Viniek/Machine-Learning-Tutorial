@@ -6,5 +6,5 @@ equation to observed data.
  -Similarly, when there is only one dependent variable, it is considered Univariate Linear Regression, 
  while when there are more than one dependent variables, it is known as Multivariate Regression.
 
-            common regression algorithms include:
-  1.Linear Regression      
+           Types of Linear Regression
+  1.         
