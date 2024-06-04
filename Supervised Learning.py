@@ -1,4 +1,4 @@
-'''Supervised Machine Learning
+'''                   Supervised Machine Learning
 
 -Supervised learning is a process of providing input data as well as correct output data to the machine
  learning model.
@@ -7,3 +7,6 @@
 -Supervised learning is the type of machine learning in which machines are trained using 
 well "labelled" training data, and on basis of that data, machines predict the output. 
 -The labelled data means some input data is already tagged with the correct output.
+
+                          Uses
+ 1.Risk Assessment, Image classification, Fraud Detection, spam filtering, etc.
