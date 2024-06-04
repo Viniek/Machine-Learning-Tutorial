@@ -32,4 +32,8 @@ If the shape of the object is a long curving cylinder having Green-Yellow color,
  2.The model is tested on the basis of test data
  3.The model then  predicts the output.    
 
-                  Types of Supervised Learning    
+                  Types of Supervised Learning
+ -Regression: A regression problem is when the output variable is a real value, 
+ such as “dollars” or “weight”.
+-Classification: A classification problem is when the output variable is a category,
+such as “Red” or “blue” , “disease” or “no disease”.                    
