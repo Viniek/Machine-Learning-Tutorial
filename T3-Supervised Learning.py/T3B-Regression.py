@@ -33,12 +33,12 @@
 # ​
 #  STEP1:We will import the three important libraries, which will help us for loading the dataset,
 #   plotting the graphs, and creating the Simple Linear Regression model.
-   import numpy as nm
-   import matplotlib.pyplot as matp
-   import pandas as pd
+import numpy as nm
+import matplotlib.pyplot as matp
+import pandas as pd
 
 #    STEP2: We will load the dataset into our code:
-  data_set=pd.read_csv("Salary_Data.csv")
+data_set=pd.read_csv("Salary_Data.csv")
 
 # By executing the above line of code (ctrl+ENTER), we can read the dataset on our Spyder IDE
 #  screen by clicking on the variable explorer option.
@@ -49,9 +49,10 @@
 #  The independent variable is years of experience, and the dependent variable is salary.
 
 x=data_set.iloc[:,:-1].values
-y=data_set.iloc[:,1]values
+y=data_set.iloc[:,1].values
 # In the above lines of code, for x variable, we have taken -1 value since we want to
 #  remove the last column from the dataset. For y variable, we have taken 1 value as a parameter,
 #  since we want to extract the second column and indexing starts from the zero.
+# By executing the above line of code, we will get the output for X and Y variable as:
 
  
