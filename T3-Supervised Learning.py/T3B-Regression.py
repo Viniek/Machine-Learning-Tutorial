@@ -53,6 +53,31 @@ y=data_set.iloc[:,1].values
 # In the above lines of code, for x variable, we have taken -1 value since we want to
 #  remove the last column from the dataset. For y variable, we have taken 1 value as a parameter,
 #  since we want to extract the second column and indexing starts from the zero.
-# By executing the above line of code, we will get the output for X and Y variable as:
+# By executing the above line of code, we will get the output for X and Y variable 
+
+# Step-2: Fitting the Simple Linear Regression to the Training Set:
+#  To do so, we will import the LinearRegression class of the linear_model library from the scikit learn.
+#   After importing the class, we are going to create an object of the class named as a regressor. 
+
+from sklearn.linear_model import LinearRegression  
+regressor= LinearRegression()  
+regressor.fit(x_train, y_train)  
+# In the above code, we have used a fit() method to fit our Simple Linear Regression object to the training set.
+#  In the fit() function, we have passed the x_train and y_train, which is our training dataset for the dependent 
+# and an independent variable. We have fitted our regressor object to the training set so that the model can easily
+#  learn the correlations between the predictor and target variables. After executing the above lines of code, we 
+# will get the below output.
+Out[7]: LinearRegression(copy_X=True, fit_intercept=True, n_jobs=None, normalize=False)
+
+# Step: 3. Prediction of test set result:
+# dependent (salary) and an independent variable (Experience). So, now, our model is ready to predict the output for 
+# the new observations. In this step, we will provide the test dataset (new observations) to the model to check 
+# whether it can predict the correct output or not.
+
+# We will create a prediction vector y_pred, and x_pred, which will contain predictions of test dataset, and
+#  prediction of training set respectively.
+
+y_pred= regressor.predict(x_test)  
+x_pred= regressor.predict(x_train)  
 
  
