@@ -24,6 +24,7 @@
 # (Independent variable). 
 
 #   The goals of this problem is:
+
 # -We want to find out if there is any correlation between these two variables
 # -We will find the best fit line for the dataset.
 # -How the dependent variable is changing by changing the independent variable.
